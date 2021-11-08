@@ -1,0 +1,29 @@
+#headerSection {
+  background-color: #c0392b;
+}
+
+#brand {
+  font-weight: 600;
+  color: white;
+  font-style: italic;
+  font-family: cursive;
+  font-size: xx-large;
+}
+
+#loginSection {
+  padding: 5px;
+  border: 1px solid #c0392b;
+  background-color: white;
+}
+
+#adminSection {
+  padding: 15px;
+  border: 1px solid #34495e;
+  background-color: white;
+  border-radius: 20px;
+}
+
+#component {
+  background-color: white;
+  border-radius: 10px;
+}
